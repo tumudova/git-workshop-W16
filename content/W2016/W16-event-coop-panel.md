@@ -6,12 +6,12 @@ Slug: coop-panel-w16
 Author: Fatema Boxwala
 Summary: Come out to talk to some awesome women in tech about their co-op experiences!
 
-Jobmine opens this Saturday, and that is kind of nerve-wracking. To help you
-gear up for the co-op season, WiCS is holding a career panel this upcoming 
+Jobmine opened this Saturday, and that was kind of nerve-wracking. To help you
+gear up for the co-op season, WiCS was holding a career panel this upcoming 
 Monday! Join us and hear the experiences of some awesome women in tech at
 UWaterloo, and bring whatever questions you have about co-op, jobs and jobmine!
 
-This event is open to everyone and snacks will be provided!
+This event was open to everyone and snacks will be provided!
 
 
 ## Event Details ##
